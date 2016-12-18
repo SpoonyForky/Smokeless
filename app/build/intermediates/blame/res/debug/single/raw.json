@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\res\\merged\\debug\\raw\\backclicksound.mp3",
+        "source": "F:\\Android_Apps\\Smokeless\\app\\src\\main\\res\\raw\\backclicksound.mp3"
+    },
+    {
+        "merged": "F:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\res\\merged\\debug\\raw\\startup_smokeless.mp3",
+        "source": "F:\\Android_Apps\\Smokeless\\app\\src\\main\\res\\raw\\startup_smokeless.mp3"
+    },
+    {
+        "merged": "F:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nextclicksound.mp3",
+        "source": "F:\\Android_Apps\\Smokeless\\app\\src\\main\\res\\raw\\nextclicksound.mp3"
+    },
+    {
+        "merged": "F:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\res\\merged\\debug\\raw\\smokeless_search.mp3",
+        "source": "F:\\Android_Apps\\Smokeless\\app\\src\\main\\res\\raw\\smokeless_search.mp3"
+    },
+    {
+        "merged": "F:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "F:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.6.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "F:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\res\\merged\\debug\\raw\\smokeless_select.mp3",
+        "source": "F:\\Android_Apps\\Smokeless\\app\\src\\main\\res\\raw\\smokeless_select.mp3"
+    }
+]

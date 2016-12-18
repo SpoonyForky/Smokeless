@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smokeless</string>
+    <string name="juice">Juices</string>
+    <string name="store">Stores</string>
+    <string name="welcome">Welcome to Smokeless, where you can keep track of what stores you have been to!</string>
+    <string name="addStore">Add Store</string>
+    <string name="sortStore">Sort Store</string>
+    <string name="store_profile">Store Profile</string>
+    <string name="store_name">Store Name</string>
+    <string name="location">Location</string>
+    <string name="save">Save</string>
+    <string name="delete_close">Delete / Close</string>
+    <string name="cancel">Cancel</string>
+    <string name="list_location">Location</string>
+    <string name="list_name">ListName</string>
+    <string name="addjuice">Add Juice</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+     <string name="title_activity_smoke_map">Map</string>
+</resources>

@@ -1,0 +1,7 @@
+#Thu Dec 08 15:51:25 EST 2016
+base.0=F\:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_60229fb2f90079372916242d028d413e736a4dc7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7730ff98e6a358a407c67f31b5082198be53cc6f\\classes.dex
+base.1=F\:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7730ff98e6a358a407c67f31b5082198be53cc6f
+file.0=F\:\\Android_Apps\\Smokeless\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_60229fb2f90079372916242d028d413e736a4dc7\\classes.dex

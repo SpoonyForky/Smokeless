@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.1_7e5f168f3e52a211c2807e143876e4aee15bd172\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_76f86980c92d677be773172eb7a53ea1cb5d8a94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_549155c94444f34d606a23cba2a1cada948aab82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.1_7a8f972681f321054429be757d9c371c86884e00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_ec0d19123a01584cec961650ea3f117ef7c76ff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_037ae2b4d0c8fa29757fff6647ca2561bfd4a979\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.1_dac37521790b151c43ab9516dffdf3fb8d4d528e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_de9d01d74470aa9aabd6bde7cdfaaf1201c97567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_ebca69f50ba3d3c522242d576a71f1deacae7ca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.1_e761e66b2e86c8785d7f4395952323914471b878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.1_9747ea7aeba63657bee94e38f089270c7a7adf64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.1_f16895666803cc81451a23bbe0229913f7df09fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.1_d4216bf3285e8a007a19844e093f624730a6aa9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_19192b0d1f2b7fffa4a6b77385377c2b795e9bca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_8b96bc209267a65a00323cab54de9ffd37b9de95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.1_56aadff86449bc98afc468066e05318215de7b91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.1_2dcd14407e74daac49c0ac8e8b7d166f72727866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_0f8390506c5e338a8e96ce07672e081e41cc7117\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_9a52af4ec7434efc8d55ede2bb79ee1367e952e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.1_7b53d79fc46fb5a1b5c6cbd8aa103386f7825e52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.1_a7d3ac2cdb50565a12fadb3a155ebe0e297c6df9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_7818394b6d299421f8b7e167b526b9b213c1cdf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_52b30da7b7be1ed88a071987d035ee19efb3c833\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_5266f3f9405c0cc1033d6596cdcfdde63ab9b6f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.1_62a6ec4fe97df4f8b97f3c80c0e45e2f8c95ede4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_ad5d71d9079c8837c315320bb5a3a6fa2513b852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.1_73b7c365d3260695681e5443c4a968cb1cafd9f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.1_eda543b4922237453b416242aba072811980d820\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_bb3ee42ac8da80c6cbce2dc0dc5cf62751551e36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_4a4a6e8eb406f8361cd047fe3378ff9daba63b68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_bce49ae1c7311dc56fc4fa6a28f2b197552247fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.1_06f31d1af53edd3fa95cb51aa037bbd56761b094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_93b5281b2981fb1a3941852929509de91c711d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_7e8a5af9936135f5e839b68bfefa5fc00ab61a96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_8dbadcf5630951141d097cf18d492705351baacd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\spork\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_9bb8c50ec05178dda4ea2d732007da33b337f08d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_768b30fb1406f8037e327331894f74d08c10787e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.1_caa28caec95f015e9b9da3873dbaa80298d0cb0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_94739d23d498924757d7b19ef5274b3cd2cdd7d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_3a6b0108211988fdced7dc27204d0da3200274bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_328a689fc295281c81fe102f01879e4059b44a71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.1_5e24b59c0e1aed131518fb0d44f8ad5e22c11973\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_8e08157ab5f77b95cffd823560e106291a068916\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_8144b8fdd5e5bae74d826f22394ee8eb8528711f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.1_0a16b4c8551076d028f0a22fe97cc7cafe4c4074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.1_8b2d0a00b9a13aa8461bdc8f8f19dad13514b648\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.1_bf1aac4889b937b0f08768b24616b630813b619a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.1_3d6bd388201c9a9d6c3b79ab77555c155f63e1c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.1_dc71be0604a53cf9b5483440b8698da05387327b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.1_8bc78dd5a7031f41080bfbb0e9f9e9b3b97c0f33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_3f11a2f067467bb727bed1b53e44927b43c6b30b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ac3571d3a09b6169453d3e67283cf46df8e36936">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_60229fb2f90079372916242d028d413e736a4dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67540e005ef47683f0dc7bc91aadfbfaf6fb577e">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7730ff98e6a358a407c67f31b5082198be53cc6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_ac6a0eef5c463836bf0f610899a1dc8d4d71606a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_68f5bc57e20660ed37ea0969d53c9e246c1e7eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_aeeb2b8efcf0d3a0cf8979391262928d51c40fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.1_62a786b00d03b775aa70132255d0b36fa173a11a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.1_937093527822134858f845ab2b841f30f253d6ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_0c5670d530920b542c8a03ccdb1c49ea1db8612d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Apps\Smokeless\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="F:\Android_Apps\Smokeless\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_d697e4edd67602d08ded8dae3678d5e2395fc646\classes.dex" />
+    </item>
+
+</items>
