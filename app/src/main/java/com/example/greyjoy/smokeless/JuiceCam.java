@@ -10,4 +10,11 @@ public class JuiceCam extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_juice_cam);
     }
+
+
+    /// access camera
+
+    //save picture to db
+
+    //
 }

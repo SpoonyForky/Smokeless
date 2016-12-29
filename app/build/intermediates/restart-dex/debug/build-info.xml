@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
+    abi="x86"
     api-level="24"
     density="xxhdpi"
     format="8"
-    plugin-version="2.2.2"
-    timestamp="523600353911654"
-    token="-1166629630462011386"
-    verifier="COLD_SWAP_REQUESTED" >
+    plugin-version="2.2.3"
+    timestamp="15709321962206"
+    token="-7239995645629690133"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2255" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="930" />
     <task
         name="verifier"
-        duration="0" />
+        duration="188" />
+
+    <artifact
+        location="F:\AndroidPrograms\Smokeless\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="522441859192079"
+        timestamp="15709321962206"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\Android_Apps\Smokeless\app\build\outputs\apk\app-debug.apk"
+            location="F:\AndroidPrograms\Smokeless\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="523600353911654"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

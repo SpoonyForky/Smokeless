@@ -38,28 +38,17 @@ public class smokeMap extends FragmentActivity implements OnMapReadyCallback, Go
         setContentView(R.layout.activity_smoke_map);
         edtAddress = (EditText) findViewById(R.id.edtAddress);
         searchBtn = (Button) findViewById(R.id.btnSearch);
-
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
-
     }
-        /**
-         * Manipulates the map once available.
-         * This callback is triggered when the map is ready to be used.
-         * This is where we can add markers or lines, add listeners or move the camera. In this case,
-         * we just add a marker near Sydney, Australia.
-         * If Google Play services is not installed on the device, the user will be prompted to install
-         * it inside the SupportMapFragment. This method will only be triggered once the user has
-         * installed Google Play services and returned to the app.
-         */
+
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
         mMap.setOnMarkerClickListener(this);
         mMap.setMapType(GoogleMap.MAP_TYPE_TERRAIN);
        Bundle mapBundle = getIntent().getExtras();
-
         if (mapBundle !=null) {
             edtAddress.setText(mapBundle.getString("ADDRESS"));
             onSearch(null);
@@ -71,7 +60,6 @@ public class smokeMap extends FragmentActivity implements OnMapReadyCallback, Go
         String location = edtAddress.getText().toString();
         List<Address> addressList = null;
         if (location != null || !(location == " ")){
-
             Geocoder geocoder = new Geocoder(this);
             try {
                addressList =  geocoder.getFromLocationName(location,4);
@@ -89,13 +77,11 @@ public class smokeMap extends FragmentActivity implements OnMapReadyCallback, Go
     }
     @Override
     public boolean onMarkerClick(final Marker marker) {
-
         String address = getCompleteAddressString(marker.getPosition().latitude, marker.getPosition().longitude);
         Intent mapFound = new Intent();
         mapFound.putExtra(ADDRESS,address);
         setResult(RESULT_OK,mapFound);
         finish();
-
         return true;
     }
 

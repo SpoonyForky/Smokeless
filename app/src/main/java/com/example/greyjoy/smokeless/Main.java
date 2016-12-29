@@ -15,16 +15,16 @@ public class Main extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        final MediaPlayer startup = MediaPlayer.create(this,R.raw.startup_smokeless);
-        final MediaPlayer nextClickSound = MediaPlayer.create(this,R.raw.nextclicksound);
+     //   final MediaPlayer startup = MediaPlayer.create(this,R.raw.startup_smokeless);
+    //    final MediaPlayer nextClickSound = MediaPlayer.create(this,R.raw.nextclicksound);
 
-        startup.start();
+    //    startup.start();
     }
 
     public void gotoJuice(View view) {
-        final MediaPlayer nextClickSound = MediaPlayer.create(this,R.raw.nextclicksound);
+     //   final MediaPlayer nextClickSound = MediaPlayer.create(this,R.raw.nextclicksound);
 
-        nextClickSound.start();
+    //    nextClickSound.start();
         CharSequence text = "Coming Soon!";
         int duration = Toast.LENGTH_SHORT;
 
@@ -34,9 +34,9 @@ public class Main extends AppCompatActivity {
     }
 
     public void gotoStore(View view) {
-        final MediaPlayer nextClickSound = MediaPlayer.create(this,R.raw.nextclicksound);
+     //   final MediaPlayer nextClickSound = MediaPlayer.create(this,R.raw.nextclicksound);
 
-       nextClickSound.start();
+    //   nextClickSound.start();
        startActivity(new Intent(this,Store.class));
 
     }

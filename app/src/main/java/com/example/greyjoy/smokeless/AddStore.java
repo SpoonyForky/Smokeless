@@ -21,7 +21,7 @@ public class AddStore extends AppCompatActivity {
     private static final String ADDED_STORE = "ADDEDSTORE";
     private static final String ADDRESS = "ADDRESS";
     private static final int RESULT_CODE = 0;
-     // grab those values from the inputs G
+
     EditText edtName;
     EditText edtLocation;
     RatingBar rtRank;
@@ -29,7 +29,6 @@ public class AddStore extends AppCompatActivity {
     EditText edtComments;
     EditText edtWebsite;
     Button goMap;
-    ///other stuff
     StoreItem creatingStore;
     int RESULT_DELETE = 999;
 
@@ -40,17 +39,13 @@ public class AddStore extends AppCompatActivity {
         setContentView(R.layout.activity_add_store);
         edtName = (EditText) findViewById(R.id.edtName);
         edtLocation = (EditText) findViewById(R.id.edtLocation);
-        // check this
         rtRank = (RatingBar) findViewById(R.id.rtRank);
-        //double down on this
         edtPhone = (EditText) findViewById(R.id.edtPhone);
         edtPhone.addTextChangedListener(new PhoneNumberFormattingTextWatcher());
         edtWebsite = (EditText)findViewById(R.id.edtWebsite);
         edtComments = (EditText) findViewById(R.id.edtComments);
         goMap = (Button) findViewById(R.id.mapButton);
 
-        // Lets create a listen for Location
-      //anon listener just 2b different
         goMap.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -63,8 +58,6 @@ public class AddStore extends AppCompatActivity {
 
             }
         } );
-
-        //lets open up that bundle
 
         Bundle createStoreBundle = getIntent().getExtras();
 
@@ -80,9 +73,6 @@ public class AddStore extends AppCompatActivity {
             rtRank.setRating(creatingStore.getRank());
 
         }
-
-
-
     }
 
     public void createStore(View view) {
@@ -93,9 +83,6 @@ public class AddStore extends AppCompatActivity {
         String strComments = edtComments.getText().toString();
         String strWebsite = edtWebsite.getText().toString();
 
-        // so they just pressed the button,  we have the store created in case they decided
-        //to change name  it will change
-        //because the object is created we just need to set the variables and then add it to an array
         creatingStore.setName(strName);
         creatingStore.setLocation(strLocation);
         creatingStore.setPhone(strPhone);
@@ -107,7 +94,6 @@ public class AddStore extends AppCompatActivity {
         createStoreIntent.putExtra(ADDED_STORE,creatingStore);
         setResult(RESULT_OK,createStoreIntent);
         finish();
-
     }
 
     public void cancel(View view) {
@@ -121,27 +107,18 @@ public class AddStore extends AppCompatActivity {
     }
 
     public void GoToWeb(View view) {
-
-        //grab the website edittext
         EditText edtWeb = (EditText) findViewById(R.id.edtWebsite);
-
-        ///uri
         String userWebInput = edtWeb.getText().toString();
         String site;
-        //just incase something ugly happens+
         try {
-            //Add http:// to beginning of user input
             if (!userWebInput.startsWith("http://")) {
                 site = "http://" + userWebInput;
             }
             else {
-                //user is a smart cookie
                 site = userWebInput;
             }
             Uri webUri = Uri.parse(site);
-            //Intentize that shit
             Intent launchBrowser = new Intent(Intent.ACTION_VIEW, webUri);
-
             startActivity(launchBrowser);
         }
         catch(Exception e){
@@ -155,9 +132,6 @@ public class AddStore extends AppCompatActivity {
         edtLocation.setText(address);
 
     } else{
-        //do nothing
     }
-
     }
-
     }

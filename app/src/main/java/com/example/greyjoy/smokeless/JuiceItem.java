@@ -4,30 +4,17 @@ import android.media.Image;
 
 public class JuiceItem {
 
-    public JuiceItem(String brand, String name, String[] flavours, int rank, String comments, Store store) {
-        this.brand = brand;
-        this.name = name;
-        this.flavours = flavours;
-        this.rank = rank;
-        this.comments = comments;
-    }
-    private Image juiceImage;
-    private String brand;
+    // Lets keep this super simple object
     private String name;
-    private String[] flavours;
-    private int rank;
+    private float rank;
     private String comments;
-    private Store store;
+    private String picLoc;
 
-    public JuiceItem() {
+    private JuiceItem() {
     }
 
-    public String getBrand() {
-        return brand;
-    }
-
-    public void setBrand(String brand) {
-        this.brand = brand;
+    public static JuiceItem createJuiceItem() {
+        return new JuiceItem();
     }
 
     public String getName() {
@@ -38,19 +25,11 @@ public class JuiceItem {
         this.name = name;
     }
 
-    public String[] getFlavours() {
-        return flavours;
-    }
-
-    public void setFlavours(String[] flavours) {
-        this.flavours = flavours;
-    }
-
-    public int getRank() {
+    public float getRank() {
         return rank;
     }
 
-    public void setRank(int rank) {
+    public void setRank(float rank) {
         this.rank = rank;
     }
 
@@ -62,11 +41,11 @@ public class JuiceItem {
         this.comments = comments;
     }
 
-    public Store getStore() {
-        return store;
+    public String getPicLoc() {
+        return picLoc;
     }
 
-    public void setStore(Store store) {
-        this.store = store;
+    public void setPicLoc(String picLoc) {
+        this.picLoc = picLoc;
     }
 }
