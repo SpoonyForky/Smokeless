@@ -120,10 +120,16 @@ public class Store extends AppCompatActivity{
     }
 
     public void sortStore(View view) {
+
+                // different sorts won't be able to be selected by the user
+                // but I have some learning to do.
+
+       storeItemArray = quickSort(storeItemArray,"rating");
+        loadStoreListView();
     }
 
 
-    public void loadStoreListView() {
+    public void loadStoreListView( ) {
         StoreItem[] storeItemsArray = new StoreItem[storeItemArray.size()];
         for (int i = 0; i < storeItemsArray.length; i++) {
             storeItemsArray[i] = storeItemArray.get(i);
@@ -166,6 +172,7 @@ public class Store extends AppCompatActivity{
         db.execSQL("insert into StoreDB values('" + name + "','" + location + "','" + rank + "','" + phone + "','" + comments + "','" + website + "')");
         db.close();
     }
+
     public ArrayList<StoreItem> getAllShops() {
         ArrayList<StoreItem> shopList = new ArrayList<StoreItem>();
         String selectQuery = "SELECT * FROM " + STORE_TABLE;
@@ -191,5 +198,29 @@ public class Store extends AppCompatActivity{
        }
         db.execSQL("Delete from "+ STORE_TABLE +" where name = '" + store.getName()+"'");
     }
+
+
+
+    //types of sort
+    public ArrayList<StoreItem> quickSort(ArrayList<StoreItem> list, String param){
+        //list is the list of stores! tada
+
+        // param is the object we will be sorting, lets start this off easy and say it's by rating at first
+
+        switch (param.toString().toLowerCase()){
+
+            case "rating":
+
+
+                break;
+
+
+        }
+
+        return null;
+
+    };
+
+  // to performa quick sort, we find the bottom and top points then we find the middle
 }
 

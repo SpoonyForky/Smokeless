@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-public class StoreList {
+public class   StoreList {
 
     private static StoreList sStores;
 

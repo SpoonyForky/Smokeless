@@ -35,8 +35,6 @@ public class MyArrayAdapter extends ArrayAdapter<StoreItem> {
         TextView lstStoreName = (TextView) convertView.findViewById(R.id.listViewName);
         RatingBar lstRating = (RatingBar) convertView.findViewById(R.id.listViewRating);
 
-
-
         lstStoreName.setText(storeList.get(position).getName());
         lstRating.setIsIndicator(true);
         lstRating.setRating(storeList.get(position).getRank());
